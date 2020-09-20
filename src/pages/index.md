@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: অভ্যন্তরীণ সম্পদ বিভাগ
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Welcome to our React Website
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
